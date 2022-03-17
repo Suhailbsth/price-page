@@ -1,0 +1,48 @@
+body{
+    background-color: #EBF3F3;
+    font-size:10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-top:80px;
+}
+.container1{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:400px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow:4px 2px 6px inset;
+}
+.container2{
+    background-color: #EBF3F3;
+    margin:20px;
+    height:330px;
+    width: 230px;
+    overflow:hidden;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+p,button{
+   margin-left: 25px;
+   padding: 12px;
+    
+}
+.price{
+    font-size:20px;
+    padding-top:0px;
+    font-weight:bolder;
+}
+button{
+    background-image:linear-gradient(to right, #5433D2,#7C34DC);
+    border: none;
+    border-radius: 5px;
+    width:75%;
+    height: 30px;
+    }
+.opshop{
+    margin-left: 35%;
+}
